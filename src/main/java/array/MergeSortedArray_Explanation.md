@@ -33,7 +33,7 @@ The 0 is only there to ensure the merge result can fit in `nums1`.
 ---
 ## 풀이 과정 (Two Pointer)
 ### 접근방법
-#### 문제를 에제에 맞춰서 간단히 다시 정리해보겠습니다.
+#### 문제를 예제에 맞춰서 간단히 다시 정리해보겠습니다.
 - 두개의 정렬된 배열이 있습니다 각 배열에서 의미 있는 요소의 갯수를 각각 m,n으로 지정합니다.(의미 없는 요소는 0으로 지정합니다)
 - ex) nums1는 의미있는 요소 `[1,2,3]` 제외 한 나머지 3개의 요소는 빈값입니다. 반면에 nums2는 `[2,5,6]` 모두 의미있는 값입니다.
 <pre style="background:#2d2d2d; color:white; padding:0.5em 1em; margin: 0; width:100%; overflow:auto; font-size: 14px; line-height: 1.4;">
